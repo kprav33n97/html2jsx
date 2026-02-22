@@ -109,7 +109,7 @@ export default function App() {
 
       <footer className="footer">
   <p>
-      © {new Date().getFullYear()}
+     Made with ❤️ for React developers © {new Date().getFullYear()}
   </p>
 </footer>
     </div>
